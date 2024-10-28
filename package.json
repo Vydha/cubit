@@ -22,6 +22,6 @@
   "homepage": "https://github.com/Vydha/cubit#readme",
   "dependencies": {
     "discord-simple-api": "^1.0.3",
-    "guessdc":"^1.0.5"
+    "guessdc":"^1.0.4"
   }
 }
